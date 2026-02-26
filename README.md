@@ -72,3 +72,8 @@ python Main.py --data sports --reg 1e-6 --ssl_reg 1e-2 --temp 0.1 --ris_lambda 0
 ## 📚 Datasets
 
 <img src="./figures/dataset.png" style="zoom:100%;" />
+
+## Acknowledgements
+We are particularly grateful to the authors of DiffMM, as parts of our code implementation were derived from their work. We have cited the relevant references in our paper.
+
+Click to browse DiffMM: https://dl.acm.org/doi/abs/10.1145/3664647.3681498
