@@ -9,34 +9,6 @@ We develop our codes in the following environment:
 - torch==1.11.0
 - scipy==1.9.1
 
-## 👉 Code Structure
-
-```
-.
-├── README.md
-├── Main.py
-├── Model.py
-├── Params.py
-├── DataHandler.py
-├── Utils
-│   ├── TimeLogger.py
-│   └── Utils.py
-├── figures
-│   ├── model.png
-│   ├── dataset.png
-│   └── performance.png
-└── Datasets
-    ├── tiktok
-    │   ├── trnMat.pkl
-    │   ├── tstMat.pkl
-    │   ├── valMat.pkl
-    │   ├── audio_feat.npy
-    │   ├── image_feat.npy
-    │   └── text_feat.npy
-    ├── baby.zip
-    └── README.md
-```
-
 ## 📚 Datasets
 
 <img src="./figures/dataset.png" style="zoom:100%;" />
